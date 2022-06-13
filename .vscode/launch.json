@@ -1,0 +1,25 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Flutter Template (Dev)",
+            "program": "./lib/main.dart",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "debug",
+            "toolArgs": [
+                
+            ]
+        },
+        {
+            "name": "Flutter Template (Prod)",
+            "program": "./lib/main.dart",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release",
+            "toolArgs": [
+               
+            ]
+        }
+    ]
+}
